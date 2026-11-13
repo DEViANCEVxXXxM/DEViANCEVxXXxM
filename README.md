@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm DEViANCE (DEViANCEVxXXxM) 👋
 
-<!--
-**DEViANCEVxXXxM/DEViANCEVxXXxM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer interested in systems programming, engine architecture, and web development.
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+* **[fate_engine](https://github.com)** — an engine project written in **Rust**. *(Add 1-2 sentences here describing what this engine does, its architecture, or key features).*
+* **[deviance.cv](https://github.com)** — source code for my personal website and portfolio built with **HTML/CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+* **Languages:** Rust, HTML, CSS *(add any other languages you use)*
+* **Tools:** Git, GitHub, Linux *(add your preferred tools)*
+
+### 📫 Connect with me
+* **Telegram:** [@deviance](https://t.me)
+* **Website / Portfolio:** [deviance.cv](https://deviance.cv) *(remove if the domain is not active)*
+* **GitHub:** [://github.com](https://://github.com)
