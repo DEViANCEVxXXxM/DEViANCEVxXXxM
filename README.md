@@ -7,8 +7,8 @@ I am a developer interested in systems programming, engine architecture, and web
 * **[deviance.cv](https://github.com)** — source code for my personal website and portfolio built with **HTML/CSS**.
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Rust, HTML, CSS *(add any other languages you use)*
-* **Tools:** Git, GitHub, Linux *(add your preferred tools)*
+* **Languages:** C#, Rust, HTML, CSS, JS,
+* **Tools:** VSCode my beloved
 
 ### 📫 Connect with me
 * **Telegram:** [@deviance](https://t.me)
