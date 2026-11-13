@@ -11,4 +11,4 @@ I am a developer interested in systems programming, engine architecture, and web
 * **Tools:** VSCode, Figma
 
 ### 📫 Connect with me
-* **Telegram:** [@deviance](https://t.me)
+* **Telegram:** [@deviance](https://t.me/deviance)
