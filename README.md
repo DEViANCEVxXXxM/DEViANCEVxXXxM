@@ -8,7 +8,7 @@ I am a developer interested in systems programming, engine architecture, and web
 
 ### 🛠 Tech Stack & Tools
 * **Languages:** C#, Rust, HTML, CSS, JS,
-* **Tools:** VSCode my beloved
+* **Tools:** VSCode, Figma
 
 ### 📫 Connect with me
 * **Telegram:** [@deviance](https://t.me)
