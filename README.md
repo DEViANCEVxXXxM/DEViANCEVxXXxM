@@ -3,7 +3,7 @@
 I am a developer interested in systems programming, engine architecture, and web development.
 
 ### 🚀 Featured Projects
-* **[fate_engine](https://github.com)** — an engine project written in **Rust**. *(Add 1-2 sentences here describing what this engine does, its architecture, or key features).*
+* **[fate_engine](https://github.com)** — an engine project written in **Rust**. *EARLY DEVELOPMENT*
 * **[deviance.cv](https://github.com)** — source code for my personal website and portfolio built with **HTML/CSS**.
 
 ### 🛠 Tech Stack & Tools
