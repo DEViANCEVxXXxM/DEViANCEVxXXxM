@@ -1,4 +1,4 @@
-# Hi there, I'm DEViANCE (DEViANCEVxXXxM) 👋
+# Hi there, I'm DEViANCE👋
 
 I am a developer interested in systems programming, engine architecture, and web development.
 
