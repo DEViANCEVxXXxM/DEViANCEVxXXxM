@@ -12,5 +12,3 @@ I am a developer interested in systems programming, engine architecture, and web
 
 ### 📫 Connect with me
 * **Telegram:** [@deviance](https://t.me)
-* **Website / Portfolio:** [deviance.cv](https://deviance.cv) *(remove if the domain is not active)*
-* **GitHub:** [://github.com](https://://github.com)
